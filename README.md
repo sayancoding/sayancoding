@@ -5,7 +5,9 @@
 - 👯 I'm looking for be a part to collaborate on 💼
 - 🤔 I’m looking for help with tech project as much i can do
 - 💬 Ask me about 🤔😥
-- 📫 How to reach me: [LinkedIN](https://www.linkedin.com/in/sayan-maity-6316921a6/) |  [Instagram](https://www.instagram.com/backward_space/)
+- 📫 How to reach me: [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
+](https://www.linkedin.com/in/sayan-maity-6316921a6/) |  [<img src="https://img.shields.io/badge/instagram-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
+](https://www.instagram.com/backward_space/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: My wheel is rolling up as procrastination most of time 🤣😪😫
 
