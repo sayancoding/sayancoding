@@ -1,7 +1,7 @@
 ### Hey, I'm Sayan Maity 👋
 
 - 🔭 I’m currently working on Angular,Flutter etc.
-- 🌱 I’m currently trynna learn ahead of algorithm 🥵
+- 🌱 I’m currently trynna learn ahead of DSA 🥵
 - 👯 I'm looking for be a part to collaborate on 💼
 - 🤔 I’m looking for help with tech project as much i can do
 - 💬 Ask me about as you throw 🤔 will do back.😥
