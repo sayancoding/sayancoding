@@ -1,6 +1,6 @@
 ### Hey, I'm Sayan Maity 👋
 
-- 🔭 I’m currently working on Java,Flutter etc.
+- 🔭 I’m currently working on Java etc.
 - 🌱 I’m currently trynna learn ahead of DSA 🥵
 - 👯 I'm looking for be a part to collaborate on 💼
 - 🤔 I’m looking for help with tech project as much i can do
