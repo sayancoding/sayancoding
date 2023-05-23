@@ -1,8 +1,8 @@
 ### Hey, I'm Sayan Maity 👋
 
-- 🔭 I’m currently working on Java etc.
-- 🌱 I’m currently trynna learn ahead of DSA 🥵
-- 👯 I'm looking for be a part to collaborate on 💼
+- 🔭 I’m currently working on Java Backend stack & etc.
+- 🌱 I’m currently trynna learn ahead of DSA & DevOps 🥵
+- 👯 I'm be a part to tech-organization 💼
 - 🤔 I’m looking for help with tech project as much i can do
 - 💬 Ask me about as you throw 🤔 will do back.😥
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sayanmaity1999/) | [Instagram](https://www.instagram.com/backward_space/)
